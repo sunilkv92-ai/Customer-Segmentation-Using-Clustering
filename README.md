@@ -1,4 +1,4 @@
-Customer Segmentation Using Clustering. 
+## Customer Segmentation Using Clustering. 
 
 Title: "Customer Segmentation Using Clustering"
 
